@@ -1,4 +1,4 @@
-# Address-Book--Management-
+# Address-Book in C
 A console-based Address Book application developed using C programming.
 
 ## Features
